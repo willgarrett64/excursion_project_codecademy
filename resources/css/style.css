@@ -4,4 +4,42 @@ body {
     background-color: black;
     text-align: center;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* header */
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+
+/* main */
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#supporting-content p {
+    color: gray;
+    font-size: 21px;
+    padding: 5px;
+}
+
+#coming-soon {
+    padding-top: 20px;
+}
+
+
+/* footer */ 
+.copyright {
+    text-align: right;
+    color: gray;
+}
+
+
+/* links */
+.download-now {
+    color: aquamarine;
+    font-size: 16px;
 }
